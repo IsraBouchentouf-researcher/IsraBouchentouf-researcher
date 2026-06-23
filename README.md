@@ -13,4 +13,6 @@ My ultimate life mission is twofold:
 I build my code and document my development in public as an unshakeable researcher preparing for elite global medical environments.
 
 ---
-📩 **Contact for Academic & Research Inquiries:** isra.bouchentouf.research@gmail.com
+📩 **Contact for Academic & Research Inquiries:** 
+**Email:** isra.bouchentouf.research@gmail.com
+**LinkedIn:** www.linkedin.com/in/isra-bouchentouf-064417411
